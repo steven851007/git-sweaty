@@ -17808,5 +17808,31 @@
     "start_date_local": "2026-03-28T19:48:53Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 550.0,
+    "elevation_gain": 0.0,
+    "id": "17895003661",
+    "moving_time": 890.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-29T07:42:51Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17895803980",
+    "moving_time": 1887.0,
+    "name": "Tri strength mini",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-29T10:30:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
