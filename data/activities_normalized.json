@@ -17912,5 +17912,31 @@
     "start_date_local": "2026-04-02T15:47:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 700.0,
+    "elevation_gain": 0.0,
+    "id": "17960123648",
+    "moving_time": 1231.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-03T10:37:25Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 44109.7,
+    "elevation_gain": 420.0,
+    "id": "17962910954",
+    "moving_time": 4868.0,
+    "name": "Zwift - Mayan San Remo in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T12:52:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
