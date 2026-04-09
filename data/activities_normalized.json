@@ -18042,5 +18042,31 @@
     "start_date_local": "2026-04-08T13:18:41Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18029560733",
+    "moving_time": 2000.0,
+    "name": "Tri strength mini",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-08T18:11:35Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 39283.5,
+    "elevation_gain": 286.0,
+    "id": "18042501178",
+    "moving_time": 4007.0,
+    "name": "Zwift - VO2Max 30/15",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T14:48:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
