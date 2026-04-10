@@ -18068,5 +18068,18 @@
     "start_date_local": "2026-04-09T14:48:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 42338.7,
+    "elevation_gain": 463.4,
+    "id": "18054932232",
+    "moving_time": 5467.0,
+    "name": "Zugersee Z2 Ride \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T15:51:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
