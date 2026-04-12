@@ -18107,5 +18107,31 @@
     "start_date_local": "2026-04-11T13:46:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18079857595",
+    "moving_time": 3806.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-12T14:11:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 14491.0,
+    "elevation_gain": 196.0,
+    "id": "18079888592",
+    "moving_time": 1629.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T14:28:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
