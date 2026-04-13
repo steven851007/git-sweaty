@@ -18127,11 +18127,50 @@
     "elevation_gain": 196.0,
     "id": "18079888592",
     "moving_time": 1629.0,
-    "name": "Afternoon Ride",
+    "name": "Wallisellen Triathlon - Ride \ud83d\udeb4\u200d\u2642\ufe0f",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-12T14:28:03Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 89.8,
+    "elevation_gain": 0.0,
+    "id": "18083077750",
+    "moving_time": 30.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T14:54:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 3976.8,
+    "elevation_gain": 27.3,
+    "id": "18083086665",
+    "moving_time": 1121.0,
+    "name": "Walliselen Triathlon - Run \ud83c\udfc3\u200d\u2642\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T14:56:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 600.0,
+    "elevation_gain": 0.0,
+    "id": "18090514483",
+    "moving_time": 1229.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-13T13:49:52Z",
+    "type": "Swim",
     "year": 2026
   }
 ]
