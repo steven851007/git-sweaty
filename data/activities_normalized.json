@@ -18172,5 +18172,18 @@
     "start_date_local": "2026-04-13T13:49:52Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 20464.2,
+    "elevation_gain": 145.0,
+    "id": "18093329854",
+    "moving_time": 2409.0,
+    "name": "Zwift - Climb Portal: Paterberg at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T15:59:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
