@@ -18211,5 +18211,57 @@
     "start_date_local": "2026-04-15T13:15:06Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 67112.9,
+    "elevation_gain": 536.0,
+    "id": "18120947975",
+    "moving_time": 6869.0,
+    "name": "Zwift - Sand And Sequoias in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T15:01:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 900.0,
+    "elevation_gain": 0.0,
+    "id": "18130748511",
+    "moving_time": 1795.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-16T13:03:10Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 1196.3,
+    "elevation_gain": 58.8,
+    "id": "18133340124",
+    "moving_time": 541.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T17:25:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 7745.5,
+    "elevation_gain": 10.8,
+    "id": "18133340301",
+    "moving_time": 2540.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T16:38:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
