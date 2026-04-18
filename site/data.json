@@ -9794,6 +9794,13 @@
       "year": 2026
     },
     {
+      "date": "2026-04-13",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
       "date": "2026-04-14",
       "hour": 15,
       "subtype": "VirtualRide",
@@ -9815,6 +9822,13 @@
       "year": 2026
     },
     {
+      "date": "2026-04-15",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
       "date": "2026-04-16",
       "hour": 13,
       "subtype": "Swim",
@@ -9833,6 +9847,34 @@
       "hour": 16,
       "subtype": "Run",
       "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
       "year": 2026
     }
   ],
@@ -20069,6 +20111,15 @@
           "distance": 14491.0,
           "elevation_gain": 196.0,
           "moving_time": 1629.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18146853971"
+          ],
+          "count": 1,
+          "distance": 80338.1,
+          "elevation_gain": 616.0,
+          "moving_time": 10166.0
         }
       },
       "Run": {
@@ -20749,30 +20800,43 @@
         },
         "2026-04-13": {
           "activity_ids": [
-            "18090514483"
+            "18090514483",
+            "18159127290"
           ],
-          "count": 1,
-          "distance": 600.0,
+          "count": 2,
+          "distance": 1200.0,
           "elevation_gain": 0.0,
-          "moving_time": 1229.0
+          "moving_time": 1894.0
         },
         "2026-04-15": {
           "activity_ids": [
-            "18117210817"
+            "18117210817",
+            "18159127345"
           ],
-          "count": 1,
-          "distance": 850.0,
+          "count": 2,
+          "distance": 1700.0,
           "elevation_gain": 0.0,
-          "moving_time": 1475.0
+          "moving_time": 2574.0
         },
         "2026-04-16": {
           "activity_ids": [
-            "18130748511"
+            "18130748511",
+            "18159127230"
           ],
-          "count": 1,
-          "distance": 900.0,
+          "count": 2,
+          "distance": 1800.0,
           "elevation_gain": 0.0,
-          "moving_time": 1795.0
+          "moving_time": 2813.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18156942803",
+            "18159127254"
+          ],
+          "count": 2,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3026.0
         }
       },
       "VirtualRide": {
@@ -21631,7 +21695,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T16:05:07.035819+00:00",
+  "generated_at": "2026-04-18T15:42:21.512566+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",

@@ -18187,6 +18187,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-13",
+    "distance": 600.0,
+    "elevation_gain": 0.0,
+    "id": "18159127290",
+    "moving_time": 665.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-13T13:49:56Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
     "date": "2026-04-14",
     "distance": 36656.8,
     "elevation_gain": 486.0,
@@ -18226,6 +18239,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-15",
+    "distance": 850.0,
+    "elevation_gain": 0.0,
+    "id": "18159127345",
+    "moving_time": 1099.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-15T13:15:09Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
     "date": "2026-04-16",
     "distance": 900.0,
     "elevation_gain": 0.0,
@@ -18262,6 +18288,58 @@
     "raw_type": "Run",
     "start_date_local": "2026-04-16T16:38:27Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 900.0,
+    "elevation_gain": 0.0,
+    "id": "18159127230",
+    "moving_time": 1018.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-16T13:03:11Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 80338.1,
+    "elevation_gain": 616.0,
+    "id": "18146853971",
+    "moving_time": 10166.0,
+    "name": "Afternoon Long Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T15:10:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18156942803",
+    "moving_time": 1699.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-18T13:10:21Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18159127254",
+    "moving_time": 1327.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-18T13:10:35Z",
+    "type": "Swim",
     "year": 2026
   }
 ]
