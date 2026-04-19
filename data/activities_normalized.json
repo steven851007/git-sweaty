@@ -18341,5 +18341,57 @@
     "start_date_local": "2026-04-18T13:10:35Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 1098.0,
+    "elevation_gain": 53.8,
+    "id": "18161020061",
+    "moving_time": 471.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T18:13:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 7623.6,
+    "elevation_gain": 10.2,
+    "id": "18161257108",
+    "moving_time": 2421.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T17:25:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 1758.9,
+    "elevation_gain": 6.8,
+    "id": "18169560801",
+    "moving_time": 1294.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-19T11:54:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 500.0,
+    "elevation_gain": 0.0,
+    "id": "18172852668",
+    "moving_time": 619.0,
+    "name": "Need for Speed",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-19T15:17:40Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
