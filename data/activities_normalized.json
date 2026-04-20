@@ -18393,5 +18393,18 @@
     "start_date_local": "2026-04-19T15:17:40Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 900.0,
+    "elevation_gain": 0.0,
+    "id": "18182922256",
+    "moving_time": 1351.0,
+    "name": "Breathing Rhythm Focus",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-20T12:50:27Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
