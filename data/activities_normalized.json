@@ -18406,5 +18406,31 @@
     "start_date_local": "2026-04-20T12:50:27Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 25546.0,
+    "elevation_gain": 1080.0,
+    "id": "18186596854",
+    "moving_time": 4839.0,
+    "name": "Zwift - Road to Sky in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-20T15:45:51Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 1050.0,
+    "elevation_gain": 0.0,
+    "id": "18196352582",
+    "moving_time": 1625.0,
+    "name": "Pacing Awareness Repeats",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-21T13:06:42Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
