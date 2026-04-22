@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T16:14:09.923329+00:00",
+  "generated_at": "2026-04-22T16:12:08.560321+00:00",
   "years": {
     "2023": {
       "Hike": {
@@ -10439,6 +10439,16 @@
           "distance": 8721.6,
           "elevation_gain": 64.0,
           "moving_time": 2892.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18213068794",
+            "18213068898"
+          ],
+          "count": 2,
+          "distance": 9184.9,
+          "elevation_gain": 74.2,
+          "moving_time": 3167.0
         }
       },
       "Squash": {
@@ -10996,6 +11006,15 @@
           "distance": 1050.0,
           "elevation_gain": 0.0,
           "moving_time": 1625.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18210530139"
+          ],
+          "count": 1,
+          "distance": 900.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1418.0
         }
       },
       "VirtualRide": {
@@ -11448,6 +11467,15 @@
           "distance": 25546.0,
           "elevation_gain": 1080.0,
           "moving_time": 4839.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18200430463"
+          ],
+          "count": 1,
+          "distance": 50080.9,
+          "elevation_gain": 391.0,
+          "moving_time": 5453.0
         }
       },
       "Walk": {

@@ -18432,5 +18432,57 @@
     "start_date_local": "2026-04-21T13:06:42Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 50080.9,
+    "elevation_gain": 391.0,
+    "id": "18200430463",
+    "moving_time": 5453.0,
+    "name": "Zwift - Figure 8 in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T15:28:26Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 900.0,
+    "elevation_gain": 0.0,
+    "id": "18210530139",
+    "moving_time": 1418.0,
+    "name": "Low Cadence Long Swims",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-22T12:56:55Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 1227.4,
+    "elevation_gain": 62.0,
+    "id": "18213068794",
+    "moving_time": 544.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T17:02:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 7957.5,
+    "elevation_gain": 12.2,
+    "id": "18213068898",
+    "moving_time": 2623.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T16:15:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
