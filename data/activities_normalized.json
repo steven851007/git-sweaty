@@ -18484,5 +18484,18 @@
     "start_date_local": "2026-04-22T16:15:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 40850.6,
+    "elevation_gain": 311.0,
+    "id": "18227914404",
+    "moving_time": 4004.0,
+    "name": "Zwift - VO2Max 30/15",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-23T15:29:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
