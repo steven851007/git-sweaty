@@ -18497,5 +18497,31 @@
     "start_date_local": "2026-04-23T15:29:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18237816100",
+    "moving_time": 1483.0,
+    "name": "Controlled Effort Repeats + Body Position Drills",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-24T12:56:09Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 27271.9,
+    "elevation_gain": 262.0,
+    "id": "18240691345",
+    "moving_time": 3383.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-24T17:06:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
