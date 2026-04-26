@@ -18536,5 +18536,31 @@
     "start_date_local": "2026-04-25T11:11:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 1075.0,
+    "elevation_gain": 0.0,
+    "id": "18261078255",
+    "moving_time": 1359.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-26T09:09:47Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 8289.5,
+    "elevation_gain": 358.2,
+    "id": "18265407250",
+    "moving_time": 6895.0,
+    "name": "Mostelberg Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-26T12:23:52Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
