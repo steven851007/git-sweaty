@@ -18562,5 +18562,44 @@
     "start_date_local": "2026-04-26T12:23:52Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 1041.1,
+    "elevation_gain": 49.6,
+    "id": "18269597771",
+    "moving_time": 444.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T18:59:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 8033.6,
+    "elevation_gain": 13.8,
+    "id": "18269597836",
+    "moving_time": 2665.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T18:13:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 39090.0,
+    "elevation_gain": 719.0,
+    "id": "18277317406",
+    "moving_time": 4381.0,
+    "name": "Zwift - Climber's Gambit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-27T10:32:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
