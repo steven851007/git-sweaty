@@ -18601,5 +18601,44 @@
     "start_date_local": "2026-04-27T10:32:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 875.0,
+    "elevation_gain": 0.0,
+    "id": "18281332543",
+    "moving_time": 3140.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-27T18:16:01Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "18287551952",
+    "moving_time": 1551.0,
+    "name": "Progressive Effort Set",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-28T06:45:29Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 41427.1,
+    "elevation_gain": 361.0,
+    "id": "18292914935",
+    "moving_time": 5037.0,
+    "name": "Zugersee Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T15:20:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
