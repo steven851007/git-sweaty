@@ -18640,5 +18640,31 @@
     "start_date_local": "2026-04-28T15:20:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 1100.0,
+    "elevation_gain": 0.0,
+    "id": "18305080534",
+    "moving_time": 1536.0,
+    "name": "Steady Continuous Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-29T13:18:11Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 44075.5,
+    "elevation_gain": 551.0,
+    "id": "18308020151",
+    "moving_time": 4606.0,
+    "name": "Zwift - Loopin Lava in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T15:04:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

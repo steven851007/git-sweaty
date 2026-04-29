@@ -10037,6 +10037,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 15,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21136,6 +21150,15 @@
           "distance": 1200.0,
           "elevation_gain": 0.0,
           "moving_time": 1551.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18305080534"
+          ],
+          "count": 1,
+          "distance": 1100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1536.0
         }
       },
       "VirtualRide": {
@@ -21615,6 +21638,15 @@
           "distance": 39090.0,
           "elevation_gain": 719.0,
           "moving_time": 4381.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18308020151"
+          ],
+          "count": 1,
+          "distance": 44075.5,
+          "elevation_gain": 551.0,
+          "moving_time": 4606.0
         }
       },
       "Walk": {
@@ -22039,7 +22071,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:56:52.993999+00:00",
+  "generated_at": "2026-04-29T16:45:32.423217+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
