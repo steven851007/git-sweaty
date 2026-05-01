@@ -18666,5 +18666,70 @@
     "start_date_local": "2026-04-29T15:04:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 8254.5,
+    "elevation_gain": 27.0,
+    "id": "18321565148",
+    "moving_time": 2616.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T18:15:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18322939613",
+    "moving_time": 1334.0,
+    "name": "Tri strength mini",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-30T20:25:09Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 1100.0,
+    "elevation_gain": 0.0,
+    "id": "18327351268",
+    "moving_time": 1403.0,
+    "name": "Threshold Awareness Repeats",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-01T06:47:41Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 48496.5,
+    "elevation_gain": 793.0,
+    "id": "18332952402",
+    "moving_time": 7040.0,
+    "name": "Zugersee + Zugerberg Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T13:35:21Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 4351.2,
+    "elevation_gain": 81.0,
+    "id": "18333198841",
+    "moving_time": 587.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T15:42:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
