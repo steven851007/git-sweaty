@@ -18731,5 +18731,18 @@
     "start_date_local": "2026-05-01T15:42:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 1250.0,
+    "elevation_gain": 0.0,
+    "id": "18344551696",
+    "moving_time": 1732.0,
+    "name": "Negative Split Practice",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-02T12:27:06Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
