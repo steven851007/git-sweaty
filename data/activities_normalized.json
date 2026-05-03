@@ -18744,5 +18744,31 @@
     "start_date_local": "2026-05-02T12:27:06Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 50790.7,
+    "elevation_gain": 636.3,
+    "id": "18348463205",
+    "moving_time": 7038.0,
+    "name": "Ibergeregg climb \u274c",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T15:53:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 74917.1,
+    "elevation_gain": 512.3,
+    "id": "18358202615",
+    "moving_time": 8880.0,
+    "name": "Zugersee & Rigi Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T10:11:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
