@@ -18796,5 +18796,44 @@
     "start_date_local": "2026-05-04T12:26:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 775.0,
+    "elevation_gain": 0.0,
+    "id": "18375033606",
+    "moving_time": 2348.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-04T18:17:04Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 1339.1,
+    "elevation_gain": 0.0,
+    "id": "18384490151",
+    "moving_time": 731.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-05T12:26:32Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 36937.8,
+    "elevation_gain": 159.0,
+    "id": "18386785834",
+    "moving_time": 3628.0,
+    "name": "Zwift - Triple Flat Loops in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T14:34:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
