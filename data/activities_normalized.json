@@ -18861,5 +18861,18 @@
     "start_date_local": "2026-05-06T15:18:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 1100.0,
+    "elevation_gain": 0.0,
+    "id": "18411425149",
+    "moving_time": 1402.0,
+    "name": "Active Recovery and Long Stroke",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-07T12:49:22Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
