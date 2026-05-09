@@ -18874,5 +18874,44 @@
     "start_date_local": "2026-05-07T12:49:22Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 75916.1,
+    "elevation_gain": 1405.5,
+    "id": "18428503724",
+    "moving_time": 11824.0,
+    "name": "Zug - Ibergeregg - Zug",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T14:55:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 8074.0,
+    "elevation_gain": 11.4,
+    "id": "18434002252",
+    "moving_time": 2743.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T08:41:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 550.0,
+    "elevation_gain": 0.0,
+    "id": "18437441302",
+    "moving_time": 621.0,
+    "name": "100m Speed Test",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-09T13:25:49Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
