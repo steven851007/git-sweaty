@@ -18913,5 +18913,18 @@
     "start_date_local": "2026-05-09T13:25:49Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 112130.0,
+    "elevation_gain": 883.8,
+    "id": "18450621992",
+    "moving_time": 15391.0,
+    "name": "Baden Round Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T08:43:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
