@@ -18939,5 +18939,31 @@
     "start_date_local": "2026-05-11T12:57:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 800.0,
+    "elevation_gain": 0.0,
+    "id": "18467312526",
+    "moving_time": 3155.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-11T18:19:28Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 30050.5,
+    "elevation_gain": 344.0,
+    "id": "18478326549",
+    "moving_time": 3153.0,
+    "name": "Zwift - Whole Lotta Lava in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-12T14:28:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
