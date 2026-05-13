@@ -18965,5 +18965,18 @@
     "start_date_local": "2026-05-12T14:28:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 1225.0,
+    "elevation_gain": 0.0,
+    "id": "18489774675",
+    "moving_time": 1617.0,
+    "name": "Broken 800m Simulation",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-13T13:12:47Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
