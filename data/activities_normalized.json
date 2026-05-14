@@ -18978,5 +18978,44 @@
     "start_date_local": "2026-05-13T13:12:47Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 57880.6,
+    "elevation_gain": 375.0,
+    "id": "18494429669",
+    "moving_time": 8724.0,
+    "name": "Welcome Cycles Club Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T18:01:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 8318.8,
+    "elevation_gain": 14.2,
+    "id": "18501688873",
+    "moving_time": 2725.0,
+    "name": "Lunch Run \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T11:00:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 1250.0,
+    "elevation_gain": 0.0,
+    "id": "18504998493",
+    "moving_time": 1641.0,
+    "name": "Afternoon swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-14T15:46:13Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

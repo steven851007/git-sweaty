@@ -10219,6 +10219,27 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 11,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 15,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20545,6 +20566,15 @@
           "distance": 112130.0,
           "elevation_gain": 883.8,
           "moving_time": 15391.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18494429669"
+          ],
+          "count": 1,
+          "distance": 57880.6,
+          "elevation_gain": 375.0,
+          "moving_time": 8724.0
         }
       },
       "Run": {
@@ -20799,6 +20829,15 @@
           "distance": 7961.8,
           "elevation_gain": 19.0,
           "moving_time": 2659.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18501688873"
+          ],
+          "count": 1,
+          "distance": 8318.8,
+          "elevation_gain": 14.2,
+          "moving_time": 2725.0
         }
       },
       "Squash": {
@@ -21482,6 +21521,15 @@
           "distance": 1225.0,
           "elevation_gain": 0.0,
           "moving_time": 1617.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18504998493"
+          ],
+          "count": 1,
+          "distance": 1250.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1641.0
         }
       },
       "VirtualRide": {
@@ -22439,7 +22487,7 @@
       }
     }
   },
-  "generated_at": "2026-05-13T17:20:38.322928+00:00",
+  "generated_at": "2026-05-14T17:03:59.831765+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
