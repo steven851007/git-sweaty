@@ -19017,5 +19017,31 @@
     "start_date_local": "2026-05-14T15:46:13Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 1125.0,
+    "elevation_gain": 0.0,
+    "id": "18515699846",
+    "moving_time": 1417.0,
+    "name": "Smooth and Steady Endurance",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-15T13:00:05Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 21203.1,
+    "elevation_gain": 542.4,
+    "id": "18518940505",
+    "moving_time": 3647.0,
+    "name": "Zugerberg Threshold Climb",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-15T17:41:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
