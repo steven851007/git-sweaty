@@ -19043,5 +19043,18 @@
     "start_date_local": "2026-05-15T17:41:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 1300.0,
+    "elevation_gain": 0.0,
+    "id": "18528037279",
+    "moving_time": 1697.0,
+    "name": "Aerobic Overload Set",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-16T12:34:51Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
