@@ -19056,5 +19056,31 @@
     "start_date_local": "2026-05-16T12:34:51Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 1575.0,
+    "elevation_gain": 0.0,
+    "id": "18538416068",
+    "moving_time": 1976.0,
+    "name": "Race Pace Exposure",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-17T09:12:09Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 111322.0,
+    "elevation_gain": 1257.0,
+    "id": "18544974941",
+    "moving_time": 14867.0,
+    "name": "Zugersee, Rigi and Zugerberg Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T13:15:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
