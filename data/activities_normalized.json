@@ -19095,5 +19095,44 @@
     "start_date_local": "2026-05-18T11:45:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 350.0,
+    "elevation_gain": 0.0,
+    "id": "18558011777",
+    "moving_time": 372.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-18T18:17:10Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 1650.0,
+    "elevation_gain": 0.0,
+    "id": "18566641260",
+    "moving_time": 2509.0,
+    "name": "Long Repeat Endurance Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-19T12:34:39Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 37766.1,
+    "elevation_gain": 646.3,
+    "id": "18570936956",
+    "moving_time": 5365.0,
+    "name": "Zugerberg from the other side",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T17:37:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
