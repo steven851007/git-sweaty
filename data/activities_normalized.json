@@ -19147,5 +19147,44 @@
     "start_date_local": "2026-05-20T12:19:37Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 77470.5,
+    "elevation_gain": 604.9,
+    "id": "18585265510",
+    "moving_time": 9535.0,
+    "name": "Head Wind Both Ways Ride \ud83c\udf2c\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T17:05:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 1600.0,
+    "elevation_gain": 0.0,
+    "id": "18593721114",
+    "moving_time": 2047.0,
+    "name": "Sustained Threshold Repeats",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-21T12:24:21Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 8112.4,
+    "elevation_gain": 9.8,
+    "id": "18595667447",
+    "moving_time": 2698.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T15:11:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
