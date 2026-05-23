@@ -19212,5 +19212,57 @@
     "start_date_local": "2026-05-22T17:09:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 77528.3,
+    "elevation_gain": 988.0,
+    "id": "18618717597",
+    "moving_time": 9743.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T08:42:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 1851.2,
+    "elevation_gain": 0.0,
+    "id": "18621953334",
+    "moving_time": 1386.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-23T15:22:21Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 297.0,
+    "elevation_gain": 18.2,
+    "id": "18622953753",
+    "moving_time": 656.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-23T16:06:01Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 251.9,
+    "elevation_gain": 11.4,
+    "id": "18623183354",
+    "moving_time": 418.0,
+    "name": "Open Water Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-23T16:58:41Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

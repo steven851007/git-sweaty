@@ -10345,6 +10345,34 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 8,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 16,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 16,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20716,6 +20744,15 @@
           "distance": 77470.5,
           "elevation_gain": 604.9,
           "moving_time": 9535.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18618717597"
+          ],
+          "count": 1,
+          "distance": 77528.3,
+          "elevation_gain": 988.0,
+          "moving_time": 9743.0
         }
       },
       "Run": {
@@ -21752,6 +21789,16 @@
           "distance": 1600.0,
           "elevation_gain": 0.0,
           "moving_time": 2047.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18622953753",
+            "18623183354"
+          ],
+          "count": 2,
+          "distance": 548.9,
+          "elevation_gain": 29.6,
+          "moving_time": 1074.0
         }
       },
       "VirtualRide": {
@@ -22557,6 +22604,15 @@
           "distance": 1091.9,
           "elevation_gain": 0.0,
           "moving_time": 675.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18621953334"
+          ],
+          "count": 1,
+          "distance": 1851.2,
+          "elevation_gain": 0.0,
+          "moving_time": 1386.0
         }
       },
       "WeightTraining": {
@@ -22727,7 +22783,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:11:34.277696+00:00",
+  "generated_at": "2026-05-23T16:04:51.780099+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
