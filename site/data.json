@@ -10387,6 +10387,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 10,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21831,6 +21838,15 @@
           "distance": 1500.0,
           "elevation_gain": 0.0,
           "moving_time": 1839.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18644814564"
+          ],
+          "count": 1,
+          "distance": 1090.4,
+          "elevation_gain": 56.2,
+          "moving_time": 1880.0
         }
       },
       "VirtualRide": {
@@ -22815,7 +22831,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:04:45.946906+00:00",
+  "generated_at": "2026-05-25T17:10:01.570313+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",

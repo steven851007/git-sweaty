@@ -19290,5 +19290,18 @@
     "start_date_local": "2026-05-24T13:56:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 1090.4,
+    "elevation_gain": 56.2,
+    "id": "18644814564",
+    "moving_time": 1880.0,
+    "name": "Zurich Triathlon Swim Lesson",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-25T10:00:42Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
