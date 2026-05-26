@@ -10394,6 +10394,27 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 12,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20783,6 +20804,24 @@
           "distance": 77528.3,
           "elevation_gain": 988.0,
           "moving_time": 9743.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18651378085"
+          ],
+          "count": 1,
+          "distance": 29969.8,
+          "elevation_gain": 459.0,
+          "moving_time": 4441.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18657357247"
+          ],
+          "count": 1,
+          "distance": 76926.8,
+          "elevation_gain": 606.8,
+          "moving_time": 9649.0
         }
       },
       "Run": {
@@ -22661,6 +22700,15 @@
           "distance": 1851.2,
           "elevation_gain": 0.0,
           "moving_time": 1386.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18659794682"
+          ],
+          "count": 1,
+          "distance": 1305.0,
+          "elevation_gain": 0.0,
+          "moving_time": 884.0
         }
       },
       "WeightTraining": {
@@ -22831,7 +22879,7 @@
       }
     }
   },
-  "generated_at": "2026-05-25T17:10:01.570313+00:00",
+  "generated_at": "2026-05-26T17:57:25.281226+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
