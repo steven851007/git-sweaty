@@ -19368,5 +19368,18 @@
     "start_date_local": "2026-05-27T13:27:17Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 36343.2,
+    "elevation_gain": 201.0,
+    "id": "18687740903",
+    "moving_time": 3626.0,
+    "name": "4 x 4m @ Vo2max",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-28T10:31:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
