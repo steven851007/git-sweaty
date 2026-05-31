@@ -19433,5 +19433,44 @@
     "start_date_local": "2026-05-30T12:08:15Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 493.1,
+    "elevation_gain": 29.6,
+    "id": "18718374967",
+    "moving_time": 530.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-30T18:32:54Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 8191.4,
+    "elevation_gain": 11.6,
+    "id": "18724104981",
+    "moving_time": 2691.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T08:13:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 550.0,
+    "elevation_gain": 0.0,
+    "id": "18729814729",
+    "moving_time": 693.0,
+    "name": "Need for Speed",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-31T15:36:44Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
