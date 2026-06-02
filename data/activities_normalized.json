@@ -19498,5 +19498,31 @@
     "start_date_local": "2026-06-01T18:17:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 1400.0,
+    "elevation_gain": 0.0,
+    "id": "18754009939",
+    "moving_time": 1729.0,
+    "name": "Lunch swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-02T11:39:58Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 45064.2,
+    "elevation_gain": 69.0,
+    "id": "18758792776",
+    "moving_time": 4533.0,
+    "name": "Zwift - Tempus Fugit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T16:13:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
