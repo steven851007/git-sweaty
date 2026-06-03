@@ -19524,5 +19524,31 @@
     "start_date_local": "2026-06-02T16:13:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 40202.6,
+    "elevation_gain": 272.0,
+    "id": "18769443113",
+    "moving_time": 3979.0,
+    "name": "Zwift - VO2Max 40/20",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-03T11:41:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 333.5,
+    "elevation_gain": 0.0,
+    "id": "18772375083",
+    "moving_time": 491.0,
+    "name": "Strandbad Zug, Zug",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-03T18:27:48Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
