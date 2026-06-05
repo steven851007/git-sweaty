@@ -19576,5 +19576,18 @@
     "start_date_local": "2026-06-04T12:47:26Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 41145.3,
+    "elevation_gain": 426.0,
+    "id": "18795017478",
+    "moving_time": 4226.0,
+    "name": "Zwift - Vo2Max 5x4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-05T09:48:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
