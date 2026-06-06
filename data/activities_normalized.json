@@ -19589,5 +19589,31 @@
     "start_date_local": "2026-06-05T09:48:35Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18808041713",
+    "moving_time": 1300.0,
+    "name": "Activation and Feel",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-06T12:21:15Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 42267.8,
+    "elevation_gain": 514.0,
+    "id": "18812379853",
+    "moving_time": 4499.0,
+    "name": "Zwift - Hilly Route in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-06T14:46:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
