@@ -19693,5 +19693,44 @@
     "start_date_local": "2026-06-09T13:44:39Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 1466.0,
+    "elevation_gain": 67.4,
+    "id": "18854709777",
+    "moving_time": 1631.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-09T19:24:56Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 900.0,
+    "elevation_gain": 0.0,
+    "id": "18863754691",
+    "moving_time": 1184.0,
+    "name": "Short Race Pace Touches",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-10T13:15:25Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 6823.7,
+    "elevation_gain": 23.8,
+    "id": "18866894030",
+    "moving_time": 2307.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T17:28:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
