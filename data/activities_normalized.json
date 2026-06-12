@@ -19758,5 +19758,18 @@
     "start_date_local": "2026-06-11T16:34:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 32218.5,
+    "elevation_gain": 203.0,
+    "id": "18891281491",
+    "moving_time": 3283.0,
+    "name": "Zwift - Greatest London Flat in London",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-12T13:30:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
