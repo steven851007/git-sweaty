@@ -19771,5 +19771,44 @@
     "start_date_local": "2026-06-12T13:30:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 1525.0,
+    "elevation_gain": 81.3,
+    "id": "18899013346",
+    "moving_time": 1043.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-13T08:58:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 6128.1,
+    "elevation_gain": 8.0,
+    "id": "18899013362",
+    "moving_time": 2150.0,
+    "name": "Shakeout Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T08:22:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 407.0,
+    "elevation_gain": 0.0,
+    "id": "18901583609",
+    "moving_time": 494.0,
+    "name": "Strandbad Zug, Zug",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-13T12:41:32Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
