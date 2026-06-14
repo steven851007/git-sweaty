@@ -19810,5 +19810,44 @@
     "start_date_local": "2026-06-13T12:41:32Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 30975.9,
+    "elevation_gain": 360.3,
+    "id": "18913257123",
+    "moving_time": 3394.0,
+    "name": "Zytturm Triathlon - Bike Leg",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T06:58:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 5140.8,
+    "elevation_gain": 6.2,
+    "id": "18914868000",
+    "moving_time": 1573.0,
+    "name": "Zytturm Triathlon - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T09:15:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 662.2,
+    "elevation_gain": 0.0,
+    "id": "18914961122",
+    "moving_time": 785.0,
+    "name": "Zytturm Triathlon - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-14T08:04:07Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
