@@ -19862,5 +19862,31 @@
     "start_date_local": "2026-06-15T18:18:49Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 25375.3,
+    "elevation_gain": 170.9,
+    "id": "18933787283",
+    "moving_time": 3621.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-15T20:13:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18940382956",
+    "moving_time": 2185.0,
+    "name": "Vo2Max Lab Test",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T10:16:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
