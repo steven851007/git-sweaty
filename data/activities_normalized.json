@@ -19888,5 +19888,31 @@
     "start_date_local": "2026-06-16T10:16:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 1400.0,
+    "elevation_gain": 0.0,
+    "id": "18956961187",
+    "moving_time": 1874.0,
+    "name": "Open Water Technique Focus",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-17T12:11:47Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 34601.0,
+    "elevation_gain": 755.0,
+    "id": "18959607183",
+    "moving_time": 4368.0,
+    "name": "Zwift - Mayan Mash in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-17T14:45:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
