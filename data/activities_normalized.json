@@ -20031,5 +20031,44 @@
     "start_date_local": "2026-06-23T12:12:37Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 11822.7,
+    "elevation_gain": 121.0,
+    "id": "19039661045",
+    "moving_time": 1598.0,
+    "name": "Zwift - Over Unders",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T18:29:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 7265.9,
+    "elevation_gain": 17.6,
+    "id": "19045187929",
+    "moving_time": 2537.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T07:23:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 1650.0,
+    "elevation_gain": 0.0,
+    "id": "19050414267",
+    "moving_time": 2274.0,
+    "name": "Sighting and Rhythm Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-24T16:15:24Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
