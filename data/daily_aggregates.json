@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T17:08:17.794214+00:00",
+  "generated_at": "2026-06-25T17:13:58.028973+00:00",
   "years": {
     "2023": {
       "Hike": {
@@ -10468,6 +10468,15 @@
           "distance": 91300.8,
           "elevation_gain": 1085.0,
           "moving_time": 11885.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19058029003"
+          ],
+          "count": 1,
+          "distance": 25010.8,
+          "elevation_gain": 310.0,
+          "moving_time": 4423.0
         }
       },
       "Run": {
@@ -11821,6 +11830,15 @@
           "distance": 1650.0,
           "elevation_gain": 0.0,
           "moving_time": 2274.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19063798042"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2476.0
         }
       },
       "VirtualRide": {
