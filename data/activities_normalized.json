@@ -20096,5 +20096,31 @@
     "start_date_local": "2026-06-25T17:09:46Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 48221.6,
+    "elevation_gain": 566.9,
+    "id": "19070455696",
+    "moving_time": 6287.0,
+    "name": "Zugersee round",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T06:58:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 497.5,
+    "elevation_gain": 0.0,
+    "id": "19075711556",
+    "moving_time": 746.0,
+    "name": "Strandbad Zug, Zug",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-26T18:29:36Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
