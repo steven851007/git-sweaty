@@ -20122,5 +20122,18 @@
     "start_date_local": "2026-06-26T18:29:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 343.3,
+    "elevation_gain": 0.0,
+    "id": "19086634554",
+    "moving_time": 395.0,
+    "name": "Shakeout swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-27T15:49:23Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
