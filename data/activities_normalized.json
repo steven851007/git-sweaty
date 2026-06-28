@@ -20135,5 +20135,44 @@
     "start_date_local": "2026-06-27T15:49:23Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 20183.6,
+    "elevation_gain": 262.0,
+    "id": "19095371543",
+    "moving_time": 1899.0,
+    "name": "Zurich Triathlon - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T09:41:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 5434.7,
+    "elevation_gain": 2.3,
+    "id": "19099042649",
+    "moving_time": 1580.0,
+    "name": "Zurich Triathlon - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T10:11:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 873.7,
+    "elevation_gain": 0.0,
+    "id": "19099091319",
+    "moving_time": 1233.0,
+    "name": "Zurich Triathlon - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-28T09:17:35Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
