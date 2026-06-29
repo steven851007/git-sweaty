@@ -20174,5 +20174,18 @@
     "start_date_local": "2026-06-28T09:17:35Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19110588910",
+    "moving_time": 1884.0,
+    "name": "Tri strength mini",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-29T13:25:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
