@@ -20187,5 +20187,18 @@
     "start_date_local": "2026-06-29T13:25:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 30026.4,
+    "elevation_gain": 375.0,
+    "id": "19121783536",
+    "moving_time": 3389.0,
+    "name": "4x4 @ Vo2Max",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-30T09:59:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
