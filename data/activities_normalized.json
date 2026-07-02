@@ -20213,5 +20213,44 @@
     "start_date_local": "2026-07-01T15:09:04Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 49685.2,
+    "elevation_gain": 587.0,
+    "id": "19140871540",
+    "moving_time": 5448.0,
+    "name": "Zwift - Over Unders",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-01T16:43:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 2200.0,
+    "elevation_gain": 0.0,
+    "id": "19149447900",
+    "moving_time": 3041.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-02T12:09:46Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 8120.5,
+    "elevation_gain": 13.0,
+    "id": "19152830354",
+    "moving_time": 2686.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-02T17:52:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
