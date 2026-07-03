@@ -20252,5 +20252,31 @@
     "start_date_local": "2026-07-02T17:52:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 1225.6,
+    "elevation_gain": 0.0,
+    "id": "19161348772",
+    "moving_time": 716.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-03T12:19:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 26213.1,
+    "elevation_gain": 577.1,
+    "id": "19165242087",
+    "moving_time": 4067.0,
+    "name": "Zugerberg Threshold",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-03T17:02:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
