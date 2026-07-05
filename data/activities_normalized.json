@@ -20317,5 +20317,31 @@
     "start_date_local": "2026-07-04T15:34:59Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 1088.2,
+    "elevation_gain": 0.0,
+    "id": "19185096957",
+    "moving_time": 1603.0,
+    "name": "Seebad Seeliken, Zug",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-05T08:36:37Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 25427.1,
+    "elevation_gain": 382.0,
+    "id": "19189826585",
+    "moving_time": 3362.0,
+    "name": "Zwift - Vo2max maintenance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-05T12:52:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
