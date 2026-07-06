@@ -20343,5 +20343,31 @@
     "start_date_local": "2026-07-05T12:52:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 1900.0,
+    "elevation_gain": 0.0,
+    "id": "19200359227",
+    "moving_time": 2529.0,
+    "name": "Chaos Simulation \u2014 Crowded Water and Contact",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-06T12:37:28Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 40427.6,
+    "elevation_gain": 322.0,
+    "id": "19203478871",
+    "moving_time": 4889.0,
+    "name": "Zugersee round",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-06T17:43:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
