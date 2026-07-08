@@ -20395,5 +20395,18 @@
     "start_date_local": "2026-07-07T07:15:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 2317.4,
+    "elevation_gain": 85.0,
+    "id": "19230704723",
+    "moving_time": 2649.0,
+    "name": "Zurich lake crossing swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-08T17:11:35Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
