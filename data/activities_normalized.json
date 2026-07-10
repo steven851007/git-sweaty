@@ -20421,5 +20421,31 @@
     "start_date_local": "2026-07-09T17:33:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 7502.1,
+    "elevation_gain": 468.5,
+    "id": "19257408537",
+    "moving_time": 1602.0,
+    "name": "The Majestics - Time Trial",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-10T16:47:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 7606.5,
+    "elevation_gain": 199.2,
+    "id": "19257409487",
+    "moving_time": 1969.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-10T15:55:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
