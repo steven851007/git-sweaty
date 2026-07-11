@@ -20447,5 +20447,18 @@
     "start_date_local": "2026-07-10T15:55:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 96311.4,
+    "elevation_gain": 2561.5,
+    "id": "19266547417",
+    "moving_time": 14856.0,
+    "name": "The Majestics - Medifondo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T08:01:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
