@@ -20460,5 +20460,31 @@
     "start_date_local": "2026-07-11T08:01:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 6165.9,
+    "elevation_gain": 10.5,
+    "id": "19286738098",
+    "moving_time": 2184.0,
+    "name": "Zug",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T20:42:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 500.0,
+    "elevation_gain": 0.0,
+    "id": "19294709759",
+    "moving_time": 657.0,
+    "name": "Need for Speed",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-13T13:11:57Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
