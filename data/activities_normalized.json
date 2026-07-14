@@ -20486,5 +20486,18 @@
     "start_date_local": "2026-07-13T13:11:57Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 24949.7,
+    "elevation_gain": 239.0,
+    "id": "19297865733",
+    "moving_time": 3998.0,
+    "name": "Zugerberg Thresholds",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T18:43:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
