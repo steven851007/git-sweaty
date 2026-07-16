@@ -20512,5 +20512,44 @@
     "start_date_local": "2026-07-14T19:40:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 41998.1,
+    "elevation_gain": 216.0,
+    "id": "19326070970",
+    "moving_time": 5128.0,
+    "name": "Zugersee Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-15T17:50:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 30139.7,
+    "elevation_gain": 254.0,
+    "id": "19334800336",
+    "moving_time": 3219.0,
+    "name": "Zwift - Figure 8 in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-16T10:02:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 600.0,
+    "elevation_gain": 0.0,
+    "id": "19338612583",
+    "moving_time": 945.0,
+    "name": "Breathing Rhythm and Bilateral Control",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-16T17:48:03Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
