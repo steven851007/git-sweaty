@@ -20564,5 +20564,18 @@
     "start_date_local": "2026-07-17T09:00:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 29123.7,
+    "elevation_gain": 465.0,
+    "id": "19351815214",
+    "moving_time": 5115.0,
+    "name": "New route discovery ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T16:50:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
