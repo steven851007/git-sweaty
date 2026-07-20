@@ -20603,5 +20603,44 @@
     "start_date_local": "2026-07-19T10:22:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 1292.3,
+    "elevation_gain": 79.6,
+    "id": "19386877887",
+    "moving_time": 584.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-20T12:52:55Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 11069.3,
+    "elevation_gain": 12.6,
+    "id": "19386878146",
+    "moving_time": 3657.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-20T11:48:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 1234.4,
+    "elevation_gain": 0.0,
+    "id": "19390427651",
+    "moving_time": 1214.0,
+    "name": "Breathing Rhythm and Bilateral Control",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-20T17:20:33Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
