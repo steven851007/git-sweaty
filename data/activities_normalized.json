@@ -20642,5 +20642,18 @@
     "start_date_local": "2026-07-20T17:20:33Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 25091.3,
+    "elevation_gain": 829.0,
+    "id": "19401038498",
+    "moving_time": 4387.0,
+    "name": "Zwift - VO2Max 30/15",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-21T09:48:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
