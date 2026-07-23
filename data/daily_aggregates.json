@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:22:42.900305+00:00",
+  "generated_at": "2026-07-23T16:39:21.312220+00:00",
   "years": {
     "2023": {
       "Hike": {
@@ -10577,6 +10577,15 @@
           "distance": 81617.1,
           "elevation_gain": 1107.5,
           "moving_time": 10560.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19421622342"
+          ],
+          "count": 1,
+          "distance": 48014.4,
+          "elevation_gain": 635.0,
+          "moving_time": 7298.0
         }
       },
       "Run": {
@@ -11023,6 +11032,15 @@
           "distance": 12361.599999999999,
           "elevation_gain": 92.19999999999999,
           "moving_time": 4241.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19427862110"
+          ],
+          "count": 1,
+          "distance": 11111.4,
+          "elevation_gain": 12.6,
+          "moving_time": 3522.0
         }
       },
       "Squash": {
