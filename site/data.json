@@ -11143,6 +11143,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 15,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22186,6 +22193,15 @@
           "distance": 11111.4,
           "elevation_gain": 12.6,
           "moving_time": 3522.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19474157355"
+          ],
+          "count": 1,
+          "distance": 7971.4,
+          "elevation_gain": 16.8,
+          "moving_time": 2599.0
         }
       },
       "Squash": {
@@ -24503,7 +24519,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T16:07:29.807032+00:00",
+  "generated_at": "2026-07-26T16:05:01.856339+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
