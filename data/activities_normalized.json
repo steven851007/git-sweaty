@@ -20707,5 +20707,18 @@
     "start_date_local": "2026-07-26T15:58:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 25336.0,
+    "elevation_gain": 189.0,
+    "id": "19483238668",
+    "moving_time": 2743.0,
+    "name": "Zwift - Montmartre Mixer in Paris",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-27T09:48:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
