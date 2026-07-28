@@ -20720,5 +20720,31 @@
     "start_date_local": "2026-07-27T09:48:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 1550.0,
+    "elevation_gain": 0.0,
+    "id": "19488126423",
+    "moving_time": 1610.0,
+    "name": "Sighting Introduction and Stroke Continuity",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-27T17:43:04Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 10523.0,
+    "elevation_gain": 62.7,
+    "id": "19497273336",
+    "moving_time": 3374.0,
+    "name": "Run threshold",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T11:03:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
