@@ -20746,5 +20746,18 @@
     "start_date_local": "2026-07-28T11:03:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 1650.0,
+    "elevation_gain": 0.0,
+    "id": "19512456011",
+    "moving_time": 2323.0,
+    "name": "Aerobic Base and Stroke Consistency",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-29T11:11:50Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
