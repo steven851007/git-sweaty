@@ -20759,5 +20759,18 @@
     "start_date_local": "2026-07-29T11:11:50Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 40444.7,
+    "elevation_gain": 280.8,
+    "id": "19518406268",
+    "moving_time": 4897.0,
+    "name": "Zugersee Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-29T18:36:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
