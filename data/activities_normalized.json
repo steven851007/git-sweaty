@@ -20772,5 +20772,31 @@
     "start_date_local": "2026-07-29T18:36:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 43220.6,
+    "elevation_gain": 229.0,
+    "id": "19533016955",
+    "moving_time": 4833.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-30T19:27:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 1500.0,
+    "elevation_gain": 0.0,
+    "id": "19540787067",
+    "moving_time": 1918.0,
+    "name": "Sustained Freestyle Endurance Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-31T12:08:31Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
