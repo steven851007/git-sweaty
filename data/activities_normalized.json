@@ -20798,5 +20798,44 @@
     "start_date_local": "2026-07-31T12:08:31Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 93275.0,
+    "elevation_gain": 1176.3,
+    "id": "19546318938",
+    "moving_time": 12241.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T17:36:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 24194.3,
+    "elevation_gain": 155.0,
+    "id": "19552399366",
+    "moving_time": 2731.0,
+    "name": "Zwift - Casse-Pattes in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-01T08:16:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 1531.9,
+    "elevation_gain": 0.0,
+    "id": "19554461975",
+    "moving_time": 951.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-01T13:12:21Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
