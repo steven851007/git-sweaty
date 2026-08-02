@@ -20837,5 +20837,31 @@
     "start_date_local": "2026-08-01T13:12:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 1300.0,
+    "elevation_gain": 0.0,
+    "id": "19559767177",
+    "moving_time": 1467.0,
+    "name": "Controlled Drowning \ud83c\udfca",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-01T18:05:52Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 33285.5,
+    "elevation_gain": 227.0,
+    "id": "19565734002",
+    "moving_time": 3627.0,
+    "name": "Vo2max",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-02T07:28:04Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
