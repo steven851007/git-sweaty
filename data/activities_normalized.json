@@ -20863,5 +20863,18 @@
     "start_date_local": "2026-08-02T07:28:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 9974.4,
+    "elevation_gain": 16.4,
+    "id": "19578815912",
+    "moving_time": 3256.0,
+    "name": "Threshold intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-03T08:09:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
