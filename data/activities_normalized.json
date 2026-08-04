@@ -20876,5 +20876,18 @@
     "start_date_local": "2026-08-03T08:09:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19586587948",
+    "moving_time": 1798.0,
+    "name": "Tri strength mini",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-03T19:44:34Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
