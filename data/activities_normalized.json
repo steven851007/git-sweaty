@@ -20889,5 +20889,31 @@
     "start_date_local": "2026-08-03T19:44:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 41078.1,
+    "elevation_gain": 214.0,
+    "id": "19600933672",
+    "moving_time": 4623.0,
+    "name": "Racing the rain \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T18:28:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 1400.0,
+    "elevation_gain": 0.0,
+    "id": "19609814933",
+    "moving_time": 1965.0,
+    "name": "Steady Breath, Steady Stroke",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-05T11:11:19Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
