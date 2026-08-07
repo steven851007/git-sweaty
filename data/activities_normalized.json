@@ -20915,5 +20915,44 @@
     "start_date_local": "2026-08-05T11:11:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 31848.3,
+    "elevation_gain": 70.0,
+    "id": "19615686956",
+    "moving_time": 2817.0,
+    "name": "First Crit Race \u2705",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-05T18:36:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 12941.6,
+    "elevation_gain": 31.6,
+    "id": "19631733268",
+    "moving_time": 4310.0,
+    "name": "Sunset Run \ud83c\udf05",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T19:47:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 950.0,
+    "elevation_gain": 0.0,
+    "id": "19640580370",
+    "moving_time": 1540.0,
+    "name": "Body Position and Balance Drills",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-07T12:15:37Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
