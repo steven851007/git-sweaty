@@ -20954,5 +20954,31 @@
     "start_date_local": "2026-08-07T12:15:37Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 40944.6,
+    "elevation_gain": 244.0,
+    "id": "19644281977",
+    "moving_time": 5073.0,
+    "name": "New Bike Day Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-07T18:44:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 21413.8,
+    "elevation_gain": 518.7,
+    "id": "19653343703",
+    "moving_time": 3431.0,
+    "name": "Threshold Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-08T12:52:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
