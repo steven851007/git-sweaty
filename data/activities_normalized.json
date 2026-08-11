@@ -21032,5 +21032,18 @@
     "start_date_local": "2026-08-10T08:00:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 1350.0,
+    "elevation_gain": 0.0,
+    "id": "19684319296",
+    "moving_time": 1754.0,
+    "name": "Easy Waves, Steady Air",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-10T18:49:30Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
