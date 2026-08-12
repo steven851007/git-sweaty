@@ -21045,5 +21045,44 @@
     "start_date_local": "2026-08-10T18:49:30Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 3997.6,
+    "elevation_gain": 70.0,
+    "id": "19699927252",
+    "moving_time": 883.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-11T19:52:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 30078.2,
+    "elevation_gain": 154.0,
+    "id": "19699930996",
+    "moving_time": 3286.0,
+    "name": "Evening Vo2max Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-11T18:54:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 10538.4,
+    "elevation_gain": 9.2,
+    "id": "19706675268",
+    "moving_time": 3264.0,
+    "name": "Morning Threshold Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T07:41:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
