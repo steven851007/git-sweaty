@@ -21084,5 +21084,44 @@
     "start_date_local": "2026-08-12T07:41:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 8188.8,
+    "elevation_gain": 15.0,
+    "id": "19715187100",
+    "moving_time": 1956.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-12T19:08:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19716250002",
+    "moving_time": 1560.0,
+    "name": "Tri strength mini",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-12T21:15:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 1400.0,
+    "elevation_gain": 0.0,
+    "id": "19722911642",
+    "moving_time": 2010.0,
+    "name": "Even Breath Endurance Build",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-13T11:31:58Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
