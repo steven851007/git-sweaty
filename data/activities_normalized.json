@@ -21136,5 +21136,31 @@
     "start_date_local": "2026-08-13T18:39:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 40035.2,
+    "elevation_gain": 336.0,
+    "id": "19742020278",
+    "moving_time": 4987.0,
+    "name": "Vo2max in the Sauna Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-14T18:29:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 1222.3,
+    "elevation_gain": 0.0,
+    "id": "19747369275",
+    "moving_time": 1856.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-15T07:35:31Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
