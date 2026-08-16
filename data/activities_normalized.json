@@ -21162,5 +21162,31 @@
     "start_date_local": "2026-08-15T07:35:31Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 16437.6,
+    "elevation_gain": 151.0,
+    "id": "19755869072",
+    "moving_time": 2734.0,
+    "name": "Exploration Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T18:08:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 27120.1,
+    "elevation_gain": 409.5,
+    "id": "19765678151",
+    "moving_time": 2935.0,
+    "name": "Crit Race - Rmvzol - St\u00e4fa",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T13:18:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
