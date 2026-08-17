@@ -21188,5 +21188,18 @@
     "start_date_local": "2026-08-16T13:18:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 31712.1,
+    "elevation_gain": 239.0,
+    "id": "19777965338",
+    "moving_time": 3628.0,
+    "name": "Zwift - Double Espresso in Paris",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-17T10:25:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
