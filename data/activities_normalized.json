@@ -21266,5 +21266,18 @@
     "start_date_local": "2026-08-20T11:24:51Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 40059.0,
+    "elevation_gain": 219.8,
+    "id": "19826290615",
+    "moving_time": 4599.0,
+    "name": "Afternoon Rainy Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-20T17:37:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
