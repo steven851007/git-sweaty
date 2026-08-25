@@ -21357,5 +21357,18 @@
     "start_date_local": "2026-08-23T08:53:32Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 41045.5,
+    "elevation_gain": 351.0,
+    "id": "19880297643",
+    "moving_time": 5127.0,
+    "name": "5-Minute Power Test Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-24T16:54:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
