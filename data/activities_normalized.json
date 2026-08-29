@@ -21422,5 +21422,31 @@
     "start_date_local": "2026-08-28T17:24:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 1400.0,
+    "elevation_gain": 0.0,
+    "id": "19945538846",
+    "moving_time": 1862.0,
+    "name": "Need for Speed",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-29T09:56:52Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 138402.0,
+    "elevation_gain": 2036.9,
+    "id": "19952796963",
+    "moving_time": 18980.0,
+    "name": "Pragel Pass Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T13:53:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
