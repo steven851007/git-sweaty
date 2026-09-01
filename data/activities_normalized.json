@@ -21448,5 +21448,57 @@
     "start_date_local": "2026-08-29T13:53:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 12714.9,
+    "elevation_gain": 213.0,
+    "id": "19985180418",
+    "moving_time": 2766.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T14:54:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 47260.1,
+    "elevation_gain": 390.0,
+    "id": "19985179800",
+    "moving_time": 6962.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-31T17:36:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 11959.2,
+    "elevation_gain": 20.0,
+    "id": "19987490933",
+    "moving_time": 1248.0,
+    "name": "Zwift - FTP Test Warm up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T09:48:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 17123.0,
+    "elevation_gain": 26.0,
+    "id": "19987833358",
+    "moving_time": 1581.0,
+    "name": "Zwift - FTP Test 20 min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T10:10:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
