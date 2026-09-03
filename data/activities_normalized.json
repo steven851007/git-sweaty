@@ -21513,5 +21513,31 @@
     "start_date_local": "2026-09-01T18:27:00Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 14108.0,
+    "elevation_gain": 42.8,
+    "id": "20010035053",
+    "moving_time": 4309.0,
+    "name": "Evening Threshold Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T18:58:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 1500.0,
+    "elevation_gain": 0.0,
+    "id": "20019761843",
+    "moving_time": 2225.0,
+    "name": "Catch Awareness with Paddles",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-03T12:14:57Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
