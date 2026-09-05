@@ -21552,5 +21552,31 @@
     "start_date_local": "2026-09-03T19:31:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 44236.3,
+    "elevation_gain": 578.0,
+    "id": "20037424728",
+    "moving_time": 5249.0,
+    "name": "Zwift - Snowman in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T17:47:21Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 72447.7,
+    "elevation_gain": 994.7,
+    "id": "20047766356",
+    "moving_time": 9287.0,
+    "name": "Hirzelpass Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-05T13:27:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

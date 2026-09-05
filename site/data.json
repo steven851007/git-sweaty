@@ -11605,6 +11605,20 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 17,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22411,6 +22425,15 @@
           "distance": 47260.1,
           "elevation_gain": 390.0,
           "moving_time": 6962.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20047766356"
+          ],
+          "count": 1,
+          "distance": 72447.7,
+          "elevation_gain": 994.7,
+          "moving_time": 9287.0
         }
       },
       "Run": {
@@ -24969,6 +24992,15 @@
           "distance": 29082.2,
           "elevation_gain": 46.0,
           "moving_time": 2829.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20037424728"
+          ],
+          "count": 1,
+          "distance": 44236.3,
+          "elevation_gain": 578.0,
+          "moving_time": 5249.0
         }
       },
       "Walk": {
@@ -25519,7 +25551,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T18:12:43.126430+00:00",
+  "generated_at": "2026-09-05T17:13:51.787796+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
