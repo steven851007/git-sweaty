@@ -21617,5 +21617,18 @@
     "start_date_local": "2026-09-06T12:23:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 34967.5,
+    "elevation_gain": 900.6,
+    "id": "20072670586",
+    "moving_time": 7287.0,
+    "name": "Furkapass Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T11:03:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
