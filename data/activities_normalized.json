@@ -21682,5 +21682,18 @@
     "start_date_local": "2026-09-10T17:45:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 38524.1,
+    "elevation_gain": 388.0,
+    "id": "20132385893",
+    "moving_time": 4473.0,
+    "name": "Afternoon Vo2 Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T17:15:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
