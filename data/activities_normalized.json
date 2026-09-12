@@ -21695,5 +21695,31 @@
     "start_date_local": "2026-09-11T17:15:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 7104.1,
+    "elevation_gain": 8.8,
+    "id": "20139150486",
+    "moving_time": 2339.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T08:33:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 1400.0,
+    "elevation_gain": 0.0,
+    "id": "20142626788",
+    "moving_time": 1902.0,
+    "name": "Easy Pace Should Feel Easy",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-12T12:59:24Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
