@@ -21773,5 +21773,18 @@
     "start_date_local": "2026-09-14T17:40:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 44338.2,
+    "elevation_gain": 218.0,
+    "id": "20188440267",
+    "moving_time": 4579.0,
+    "name": "Threshold TT Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-15T18:11:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
