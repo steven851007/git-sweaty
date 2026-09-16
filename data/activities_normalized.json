@@ -21736,6 +21736,19 @@
     "year": 2026
   },
   {
+    "date": "2026-09-12",
+    "distance": 5180.6,
+    "elevation_gain": 358.7,
+    "id": "20201127155",
+    "moving_time": 5019.0,
+    "name": "Stoos SZ / Riemenstalden",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-12T17:43:41Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
     "date": "2026-09-13",
     "distance": 95162.2,
     "elevation_gain": 1977.5,
@@ -21785,6 +21798,19 @@
     "raw_type": "Ride",
     "start_date_local": "2026-09-15T18:11:24Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 14428.1,
+    "elevation_gain": 61.8,
+    "id": "20198525404",
+    "moving_time": 4531.0,
+    "name": "Lunch Threshold Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T11:57:38Z",
+    "type": "Run",
     "year": 2026
   }
 ]
