@@ -21838,5 +21838,18 @@
     "start_date_local": "2026-09-17T16:38:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 51145.1,
+    "elevation_gain": 563.0,
+    "id": "20230842027",
+    "moving_time": 5306.0,
+    "name": "Good workout, bad accident",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-18T16:56:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
