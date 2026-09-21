@@ -21851,5 +21851,31 @@
     "start_date_local": "2026-09-18T16:56:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 4314.8,
+    "elevation_gain": 97.4,
+    "id": "20259494247",
+    "moving_time": 3562.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-20T18:54:01Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 775.0,
+    "elevation_gain": 0.0,
+    "id": "20269683485",
+    "moving_time": 1226.0,
+    "name": "Longer Continuous Freestyle",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-21T17:27:29Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
