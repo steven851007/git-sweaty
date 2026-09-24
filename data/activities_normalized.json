@@ -21903,5 +21903,18 @@
     "start_date_local": "2026-09-23T18:27:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 38724.4,
+    "elevation_gain": 259.0,
+    "id": "20312322781",
+    "moving_time": 4054.0,
+    "name": "Afternoon threshold Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-24T16:42:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
