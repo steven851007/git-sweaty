@@ -21955,5 +21955,31 @@
     "start_date_local": "2026-09-26T13:52:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 200.0,
+    "elevation_gain": 0.0,
+    "id": "20350836656",
+    "moving_time": 223.0,
+    "name": "Pool Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-27T13:14:37Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 326.9,
+    "elevation_gain": 0.0,
+    "id": "20354625525",
+    "moving_time": 125.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T18:21:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
