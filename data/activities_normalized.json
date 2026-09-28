@@ -21981,5 +21981,18 @@
     "start_date_local": "2026-09-27T18:21:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 26396.9,
+    "elevation_gain": 559.0,
+    "id": "20366071632",
+    "moving_time": 4069.0,
+    "name": "Zugerberg Vo2 Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-28T17:06:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
