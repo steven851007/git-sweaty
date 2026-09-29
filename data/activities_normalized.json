@@ -21994,5 +21994,31 @@
     "start_date_local": "2026-09-28T17:06:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 1500.0,
+    "elevation_gain": 0.0,
+    "id": "20376802104",
+    "moving_time": 1848.0,
+    "name": "Fatigue-Resistant Technique",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-29T12:30:38Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 27441.0,
+    "elevation_gain": 182.0,
+    "id": "20380607996",
+    "moving_time": 3083.0,
+    "name": "TT position testing Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T17:36:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
