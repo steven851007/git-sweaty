@@ -22020,5 +22020,18 @@
     "start_date_local": "2026-09-29T17:36:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 37695.6,
+    "elevation_gain": 219.0,
+    "id": "20395403498",
+    "moving_time": 4058.0,
+    "name": "Race Prep TT Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T17:32:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
