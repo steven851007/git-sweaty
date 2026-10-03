@@ -22046,5 +22046,31 @@
     "start_date_local": "2026-10-01T17:40:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 21605.7,
+    "elevation_gain": 189.0,
+    "id": "20433647018",
+    "moving_time": 1991.0,
+    "name": "ITT - Tre Valli Varesine",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T15:06:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 6470.1,
+    "elevation_gain": 48.0,
+    "id": "20433647209",
+    "moving_time": 1145.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T14:20:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
