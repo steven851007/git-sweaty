@@ -22072,5 +22072,18 @@
     "start_date_local": "2026-10-03T14:20:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 125711.0,
+    "elevation_gain": 2078.0,
+    "id": "20448251354",
+    "moving_time": 14869.0,
+    "name": "UCI Granfondo European Championship",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T09:08:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
