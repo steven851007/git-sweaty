@@ -22163,5 +22163,18 @@
     "start_date_local": "2026-10-09T16:20:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 42561.1,
+    "elevation_gain": 310.0,
+    "id": "20531298571",
+    "moving_time": 4484.0,
+    "name": "Zwift - Watts of the Wild in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-10T15:55:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
