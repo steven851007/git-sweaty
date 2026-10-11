@@ -22176,5 +22176,18 @@
     "start_date_local": "2026-10-10T15:55:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 10544.4,
+    "elevation_gain": 53.4,
+    "id": "20541498003",
+    "moving_time": 3304.0,
+    "name": "Afternoon Threhsold Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T13:26:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
