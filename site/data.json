@@ -11955,6 +11955,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -23594,6 +23601,15 @@
           "distance": 10544.4,
           "elevation_gain": 53.4,
           "moving_time": 3304.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20571960252"
+          ],
+          "count": 1,
+          "distance": 9404.4,
+          "elevation_gain": 46.0,
+          "moving_time": 2995.0
         }
       },
       "Squash": {
@@ -26255,7 +26271,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:26:39.559919+00:00",
+  "generated_at": "2026-10-13T20:33:57.543328+00:00",
   "other_bucket": "OtherSports",
   "repo": "steven851007/git-sweaty",
   "source": "strava",
