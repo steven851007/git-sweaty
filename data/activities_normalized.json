@@ -22215,5 +22215,31 @@
     "start_date_local": "2026-10-13T18:28:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 1525.0,
+    "elevation_gain": 0.0,
+    "id": "20581705471",
+    "moving_time": 1984.0,
+    "name": "Need for Speed",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-14T14:17:55Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 29776.0,
+    "elevation_gain": 551.0,
+    "id": "20584619442",
+    "moving_time": 4227.0,
+    "name": "Zug / Walchwil",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-14T17:09:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
