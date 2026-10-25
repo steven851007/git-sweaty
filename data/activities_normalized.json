@@ -22332,5 +22332,18 @@
     "start_date_local": "2026-10-23T17:17:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 21507.8,
+    "elevation_gain": 109.3,
+    "id": "20726839441",
+    "moving_time": 6101.0,
+    "name": "Luzerne Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T11:50:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
