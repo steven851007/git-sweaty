@@ -22358,5 +22358,31 @@
     "start_date_local": "2026-10-27T16:09:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 13582.3,
+    "elevation_gain": 99.0,
+    "id": "20792778120",
+    "moving_time": 1551.0,
+    "name": "Zwift - Zwift Race Warm-Up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-30T15:36:10Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 21652.8,
+    "elevation_gain": 108.0,
+    "id": "20793257115",
+    "moving_time": 1885.0,
+    "name": "Zwift - Race: Stage 4 - Race - Tour of Watopia 2026 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-30T16:11:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
