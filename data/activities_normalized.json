@@ -22423,5 +22423,18 @@
     "start_date_local": "2026-11-04T13:38:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 19787.0,
+    "elevation_gain": 275.0,
+    "id": "20872040780",
+    "moving_time": 2346.0,
+    "name": "Zwift - Downtown Eruption in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T15:33:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
