@@ -22436,5 +22436,18 @@
     "start_date_local": "2026-11-05T15:33:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 23097.7,
+    "elevation_gain": 216.0,
+    "id": "20897034177",
+    "moving_time": 2111.0,
+    "name": "Zwift - Race: Stage 5 - Race - Tour of Watopia 2026 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-07T15:11:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
