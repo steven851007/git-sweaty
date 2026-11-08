@@ -22449,5 +22449,31 @@
     "start_date_local": "2026-11-07T15:11:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 1450.0,
+    "elevation_gain": 0.0,
+    "id": "20904564486",
+    "moving_time": 1985.0,
+    "name": "Finding Your Easy Pace",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-08T09:15:06Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 9359.1,
+    "elevation_gain": 44.0,
+    "id": "20910152247",
+    "moving_time": 2979.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T15:15:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
