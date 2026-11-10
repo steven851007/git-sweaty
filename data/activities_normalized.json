@@ -22475,5 +22475,31 @@
     "start_date_local": "2026-11-08T15:15:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 15379.0,
+    "elevation_gain": 48.0,
+    "id": "20935446680",
+    "moving_time": 1539.0,
+    "name": "Zwift - Zwift Race Warm-Up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T16:31:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 20908.7,
+    "elevation_gain": 42.0,
+    "id": "20936001266",
+    "moving_time": 1740.0,
+    "name": "Zwift - Race: Stage 1 - ZRacing - Watopia Islands - Loopipelago (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T17:11:37Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
