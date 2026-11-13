@@ -22501,5 +22501,18 @@
     "start_date_local": "2026-11-10T17:11:37Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 1425.0,
+    "elevation_gain": 0.0,
+    "id": "20973169272",
+    "moving_time": 2070.0,
+    "name": "Relaxed Breathing Rhythm",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-13T12:35:09Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
