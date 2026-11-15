@@ -22514,5 +22514,18 @@
     "start_date_local": "2026-11-13T12:35:09Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 9415.3,
+    "elevation_gain": 33.4,
+    "id": "20998619820",
+    "moving_time": 2985.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-15T14:40:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
