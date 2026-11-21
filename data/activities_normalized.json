@@ -22566,5 +22566,18 @@
     "start_date_local": "2026-11-20T12:52:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 24474.8,
+    "elevation_gain": 158.0,
+    "id": "21066840751",
+    "moving_time": 2716.0,
+    "name": "Zwift - Mech Isle Mayhem in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-21T07:33:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
