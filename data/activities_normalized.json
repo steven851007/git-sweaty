@@ -22605,5 +22605,31 @@
     "start_date_local": "2026-11-23T18:37:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 13862.1,
+    "elevation_gain": 119.0,
+    "id": "21103676281",
+    "moving_time": 1548.0,
+    "name": "Zwift - Zwift Race Warm-Up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T06:39:22Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 23433.6,
+    "elevation_gain": 128.0,
+    "id": "21103971843",
+    "moving_time": 2231.0,
+    "name": "Zwift - Race: Stage 3 - Seafoam Circuit (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T07:11:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
