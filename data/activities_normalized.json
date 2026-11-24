@@ -22592,5 +22592,18 @@
     "start_date_local": "2026-11-22T05:42:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 7855.6,
+    "elevation_gain": 4.0,
+    "id": "21094026310",
+    "moving_time": 2705.0,
+    "name": "Cats of Lumpini Park Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-23T18:37:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
